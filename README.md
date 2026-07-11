@@ -1,2 +1,2 @@
-# chidori-c_plus_plus
+# chidori
 This is where I experiment in C++ :)
